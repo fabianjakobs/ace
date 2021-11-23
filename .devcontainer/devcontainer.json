@@ -30,5 +30,10 @@
 	"remoteUser": "node",
 	"features": {
 		"git": "os-provided"
+	},
+	"portsAttributes": {
+		"8888": {
+			"label": "Ace Demo"
+		}
 	}
 }
